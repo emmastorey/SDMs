@@ -29,5 +29,7 @@ Norway pout data looked very sparse so there is less confidence in the results o
 
 Covariate data is extracted from 'new_gridded_env_data_10km_1980to2099_CERES_Copernicus_and_other_sources' which Elena Couce pre-processed. This data is stored on the CDP.
 
+* I think we removed predictions for depths that were greater than observed in the data due to overextrapolation especially within areas such as the Norweigian Trench.
+
 
 
