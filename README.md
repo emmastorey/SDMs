@@ -1,6 +1,7 @@
 # SDMs - Multispecies Modelling using sdmTMB
 
 All data and results are stored on the Lowestoft CDP under XXX
+Make sure to link OpenBLAS correctly for sdmTMB - see https://sdmtmb.github.io/sdmTMB/#installation
 
 SCRIPTS:
 
