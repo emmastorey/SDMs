@@ -1,9 +1,6 @@
-# SDMs
-Multispecies Modelling
-
+# SDMs - Multispecies Modelling using sdmTMB
 
 All data and results are stored on the Lowestoft CDP under XXX
-
 
 SCRIPTS:
 
